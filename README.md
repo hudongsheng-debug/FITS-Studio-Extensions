@@ -33,3 +33,8 @@ FITS QuickLook Studio 的公开扩展目录。这里只存放 App 介绍和商�
 - 主软件只读取目录数据，不下载或执行远程代码。
 
 Raw URL: https://raw.githubusercontent.com/hudongsheng-debug/FITS-Studio-Extensions/main/extensions.json
+
+
+## Pending releases and FrameScout
+
+New Studio builds read `extensions-v2.json`. An empty `appStoreID` means Coming Soon: installed apps can open, but the store button is disabled. Replace the empty value with the real numeric Apple ID when released. `extensions.json` remains the legacy feed; add released entries there too for older clients. FrameScout exports ordinary FITS files, so `formats` is empty; users open those FITS through Studio’s normal file opening workflow. CSV reports are not imported as extension packages.

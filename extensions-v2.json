@@ -62,7 +62,7 @@
       "id": "framescout",
       "name": "FrameScout",
       "bundleIdentifier": "com.greenjersey.FrameScout",
-      "appStoreID": "",
+      "appStoreID": "6812976666",
       "summaries": {
         "zh-Hans": "批量筛选 FITS 并导出保留的原始文件；在主软件中打开导出的 FITS。CSV 为独立报告。",
         "en": "Select FITS frames and export kept originals. Open exported FITS in Studio; CSV is a separate report.",

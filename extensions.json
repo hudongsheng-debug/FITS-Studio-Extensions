@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "extensions": [
+    {
+      "id": "starfolio",
+      "name": "Starfolio",
+      "bundleIdentifier": "com.greenjersey.FITSQuickLook.Appearance",
+      "appStoreID": "6812951167",
+      "summaries": {
+        "zh-Hans": "自定义卡片、功能图标和背景。",
+        "en": "Customize cards, feature icons, and backgrounds.",
+        "fr": "Personnalisez les cartes, les icônes et les arrière-plans.",
+        "es": "Personaliza tarjetas, iconos y fondos.",
+        "de": "Karten, Funktionssymbole und Hintergründe anpassen."
+      },
+      "formats": [
+        {
+          "kind": "appearance",
+          "version": 1
+        }
+      ]
+    },
+    {
+      "id": "chromara",
+      "name": "Chromara",
+      "bundleIdentifier": "com.greenjersey.Chromara",
+      "appStoreID": "6812951652",
+      "summaries": {
+        "zh-Hans": "编辑科学配色、黑白点与拉伸曲线。",
+        "en": "Edit scientific color maps, black and white points, and stretch curves.",
+        "fr": "Modifiez les palettes scientifiques, les points noir et blanc et les courbes.",
+        "es": "Edita mapas de color científicos, puntos blanco y negro y curvas.",
+        "de": "Wissenschaftliche Farbtabellen, Schwarz- und Weißpunkte und Kurven bearbeiten."
+      },
+      "formats": [
+        {
+          "kind": "chromara",
+          "version": 1
+        }
+      ]
+    },
+    {
+      "id": "astronote",
+      "name": "AstroNote",
+      "bundleIdentifier": "com.greenjersey.AstroNote",
+      "appStoreID": "6812951934",
+      "summaries": {
+        "zh-Hans": "标记图片区域并记录观察笔记。",
+        "en": "Mark image regions and record observation notes.",
+        "fr": "Annotez les zones d’image et consignez vos observations.",
+        "es": "Marca regiones de imágenes y registra observaciones.",
+        "de": "Bildbereiche markieren und Beobachtungsnotizen festhalten."
+      },
+      "formats": [
+        {
+          "kind": "astronote",
+          "version": 1
+        }
+      ]
+    }
+  ]
+}

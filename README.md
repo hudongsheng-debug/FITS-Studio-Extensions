@@ -38,3 +38,14 @@ Raw URL: https://raw.githubusercontent.com/hudongsheng-debug/FITS-Studio-Extensi
 ## Pending releases and FrameScout
 
 New Studio builds read `extensions-v2.json`. An empty `appStoreID` means Coming Soon: installed apps can open, but the store button is disabled. Replace the empty value with the real numeric Apple ID when released. `extensions.json` remains the legacy feed; add released entries there too for older clients. FrameScout exports ordinary FITS files, so `formats` is empty; users open those FITS through Studio’s normal file opening workflow. CSV reports are not imported as extension packages.
+
+## LumaPair
+
+Apple ID: `6813025087`. LumaPair is a standalone Wipe, Blink, and Overlay viewer; `formats` is empty. The catalog link does not imply App Store approval or availability.
+
+- [Privacy Policy](docs/lumapair/privacy.md)
+- [Support](docs/lumapair/support.md)
+- [User Guide](docs/lumapair/user-guide.md)
+- [English App Store metadata](docs/lumapair/app-store-metadata.md)
+- [Review Notes](docs/lumapair/review-notes.md)
+- [Two-page screenshot copy](docs/lumapair/screenshot-copy.md)

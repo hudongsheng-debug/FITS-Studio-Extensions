@@ -71,6 +71,20 @@
         "de": "FITS-Aufnahmen auswählen und Originale exportieren. FITS in Studio öffnen; CSV ist ein separater Bericht."
       },
       "formats": []
+    },
+    {
+      "id": "lumapair",
+      "name": "LumaPair",
+      "bundleIdentifier": "com.greenjersey.LumaPair",
+      "appStoreID": "6813025087",
+      "summaries": {
+        "zh-Hans": "映隙：用滑杆揭示、闪烁观察与透明度叠加检查两次观测的变化，共用显示参数。独立 App，不修改原始 FITS。",
+        "en": "Reveal changes between two observations with a wipe, blink and opacity overlay, using shared display settings. Originals stay untouched.",
+        "fr": "Révélez les changements entre deux observations par balayage, clignotement et superposition avec réglages communs.",
+        "es": "Observa cambios entre dos imágenes con deslizador, parpadeo y superposición, usando ajustes compartidos.",
+        "de": "Änderungen zwischen zwei Aufnahmen durch Wischen, Blinken und Überlagerung mit gemeinsamen Anzeigeparametern prüfen."
+      },
+      "formats": []
     }
   ]
 }

@@ -49,3 +49,15 @@ Apple ID: `6813025087`. LumaPair is a standalone Wipe, Blink, and Overlay viewer
 - [English App Store metadata](docs/lumapair/app-store-metadata.md)
 - [Review Notes](docs/lumapair/review-notes.md)
 - [Two-page screenshot copy](docs/lumapair/screenshot-copy.md)
+
+## PlotLoom
+
+Apple ID: `6813286507`. [App Store](https://apps.apple.com/app/id6813286507).
+PlotLoom is a standalone scientific plotting app for supported MAT and FITS numerical data, including nested numeric leaves, complex and sparse data, image slices, and numeric FITS table columns. It exports PNG, PDF and SVG. `formats` is empty: the catalog launches the app; it does not transfer the host's current matrix. The link does not imply App Store approval or availability.
+
+- [Privacy Policy](docs/plotloom/privacy.md)
+- [Support and User Guide](docs/plotloom/support.md)
+- [English App Store metadata](docs/plotloom/app-store-metadata.md)
+- [Review Notes](docs/plotloom/review-notes.md)
+- [Review examples](docs/plotloom/PlotLoom-Review-Examples.zip)
+- [Three-page screenshot copy](docs/plotloom/screenshot-copy.md)

@@ -85,6 +85,20 @@
         "de": "Änderungen zwischen zwei Aufnahmen durch Wischen, Blinken und Überlagerung mit gemeinsamen Anzeigeparametern prüfen."
       },
       "formats": []
+    },
+    {
+      "id": "plotloom",
+      "name": "PlotLoom",
+      "bundleIdentifier": "com.greenjersey.PlotLoom",
+      "appStoreID": "6813286507",
+      "summaries": {
+        "zh-Hans": "绘序：直接读取 MAT 与 FITS 数值数据，绘制误差棒、分组柱状图、箱线图、极坐标图及折线／散点，导出 PNG、PDF、SVG。",
+        "en": "Read MAT and FITS numerical data. Create error bars, grouped bars, box plots, polar plots, lines and scatter plots; export PNG, PDF and SVG.",
+        "fr": "Lisez les données MAT et FITS ; créez des graphiques scientifiques et exportez en PNG, PDF ou SVG.",
+        "es": "Lee datos MAT y FITS, crea gráficos científicos y exporta PNG, PDF y SVG.",
+        "de": "MAT- und FITS-Daten lesen, wissenschaftliche Diagramme erstellen und als PNG, PDF oder SVG exportieren."
+      },
+      "formats": []
     }
   ]
 }

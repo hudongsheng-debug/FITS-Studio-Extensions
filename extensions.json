@@ -99,6 +99,20 @@
         "de": "MAT- und FITS-Daten lesen, wissenschaftliche Diagramme erstellen und als PNG, PDF oder SVG exportieren."
       },
       "formats": []
+    },
+    {
+      "id": "stargauge",
+      "name": "StarGauge",
+      "bundleIdentifier": "com.greenjersey.StarGauge",
+      "appStoreID": "6813736382",
+      "summaries": {
+        "zh-Hans": "星衡：测量 FITS 星点和图像区域，查看净信号、估计 FWHM 与径向亮度曲线，保存记录并导出 CSV 或标注 PNG。",
+        "en": "Measure stars and regions in FITS images. Inspect net flux, estimated FWHM and radial profiles; save measurements and export CSV or annotated PNG.",
+        "de": "Sterne und Bereiche in FITS-Bildern messen, Nettofluss, geschätzte FWHM und radiale Profile prüfen; Messungen speichern und CSV oder PNG exportieren.",
+        "es": "Mide estrellas y regiones FITS, consulta flujo neto, FWHM estimada y perfiles radiales; guarda mediciones y exporta CSV o PNG anotado.",
+        "fr": "Mesurez les étoiles et régions FITS, examinez le flux net, la FWHM estimée et les profils radiaux ; enregistrez les mesures et exportez en CSV ou PNG annoté."
+      },
+      "formats": []
     }
   ]
 }

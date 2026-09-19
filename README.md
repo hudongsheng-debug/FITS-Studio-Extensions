@@ -61,3 +61,9 @@ PlotLoom is a standalone scientific plotting app for supported MAT and FITS nume
 - [Review Notes](docs/plotloom/review-notes.md)
 - [Review examples](docs/plotloom/PlotLoom-Review-Examples.zip)
 - [Three-page screenshot copy](docs/plotloom/screenshot-copy.md)
+
+## StarGauge
+
+Apple ID: `6813736382`. [App Store](https://apps.apple.com/app/id6813736382). Bundle ID: `com.greenjersey.StarGauge`.
+
+Standalone FITS star and region measurements, radial profiles, saved records, CSV and annotated PNG export. `formats` is empty: Studio launches the installed app without transferring its current file. Both catalog feeds include this entry. The store link does not imply approval or availability.

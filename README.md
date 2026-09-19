@@ -67,3 +67,9 @@ PlotLoom is a standalone scientific plotting app for supported MAT and FITS nume
 Apple ID: `6813736382`. [App Store](https://apps.apple.com/app/id6813736382). Bundle ID: `com.greenjersey.StarGauge`.
 
 Standalone FITS star and region measurements, radial profiles, saved records, CSV and annotated PNG export. `formats` is empty: Studio launches the installed app without transferring its current file. Both catalog feeds include this entry. The store link does not imply approval or availability.
+
+## Calibra
+
+Apple ID: `6813841090`. [App Store](https://apps.apple.com/app/id6813841090). Bundle ID: `com.greenjersey.Calibra`.
+
+Standalone FITS Bias/Dark/Flat/Dark Flat calibration, master generation, comparison and FITS/report export. Both feeds offer discovery and launch; `formats` is empty and no current host file is transferred. The store link does not imply approval or availability.

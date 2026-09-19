@@ -113,6 +113,20 @@
         "fr": "Mesurez les étoiles et régions FITS, examinez le flux net, la FWHM estimée et les profils radiaux ; enregistrez les mesures et exportez en CSV ou PNG annoté."
       },
       "formats": []
+    },
+    {
+      "id": "calibra",
+      "name": "Calibra",
+      "bundleIdentifier": "com.greenjersey.Calibra",
+      "appStoreID": "6813841090",
+      "summaries": {
+        "zh-Hans": "净光：用 Bias、Dark、Flat 与 Dark Flat 校准 FITS，生成主校准帧，比较结果并导出 FITS 和处理报告。",
+        "en": "Calibrate FITS with Bias, Dark, Flat and Dark Flat frames. Build masters, compare results and export FITS with a processing report.",
+        "de": "FITS mit Bias, Dark, Flat und Dark Flat kalibrieren. Master erstellen, Ergebnisse vergleichen und FITS mit Verarbeitungsbericht exportieren.",
+        "es": "Calibra FITS con Bias, Dark, Flat y Dark Flat. Crea másteres, compara resultados y exporta FITS con un informe de procesamiento.",
+        "fr": "Calibrez les FITS avec Bias, Dark, Flat et Dark Flat. Créez des masters, comparez les résultats et exportez les FITS avec un rapport de traitement."
+      },
+      "formats": []
     }
   ]
 }

@@ -127,6 +127,20 @@
         "fr": "Calibrez les FITS avec Bias, Dark, Flat et Dark Flat. Créez des masters, comparez les résultats et exportez les FITS avec un rapport de traitement."
       },
       "formats": []
+    },
+    {
+      "id": "starweave",
+      "name": "StarWeave",
+      "bundleIdentifier": "com.greenjersey.StarWeave",
+      "appStoreID": "6814044762",
+      "summaries": {
+        "zh-Hans": "星织：对齐同视场单色 FITS，生成平均值或中位数叠加图，检查覆盖情况，导出 FITS 与处理报告。",
+        "en": "Align same-field monochrome FITS images, create mean or median stacks, inspect coverage, and export FITS with processing reports.",
+        "de": "Monochrome FITS desselben Feldes ausrichten, Mittelwert- oder Medianstapel erstellen, Abdeckung prüfen und FITS mit Berichten exportieren.",
+        "es": "Alinea FITS monocromos del mismo campo, crea apilados por media o mediana, revisa la cobertura y exporta FITS e informes.",
+        "fr": "Alignez des FITS monochromes du même champ, empilez par moyenne ou médiane, vérifiez la couverture et exportez FITS et rapports."
+      },
+      "formats": []
     }
   ]
 }
